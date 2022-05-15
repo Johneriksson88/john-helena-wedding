@@ -1,6 +1,30 @@
 /* fonts */
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster+Two:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=IM+Fell+Great+Primer&family=Lobster+Two:ital@1&display=swap');
 
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
 body {
-    font-family: Great Vibes, sans-serif;
+    font-family: IM Fell Great Primer, sans-serif;
+}
+
+/* headings and logo*/
+
+.logo {
+    text-align: center;
+    font-family: Great Vibes;
+    margin-top: 10px;
+    font-size: 46px;
+    color: rgb(185, 25, 25);
+    background-color: blueviolet;
+    height: 100px;
+    font-size: 60px;
+    padding-top: 20px;
+
+.header-image {
+    
 }
