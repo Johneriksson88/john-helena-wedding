@@ -90,3 +90,11 @@ footer {
     text-align: center;
 }
 
+/* form */
+
+form {
+    line-height: 25px;
+    text-align: center;
+    margin-top: 50px;
+    background: url(//assets/images/siora-photography-pR-CxiHLsUI-unsplash.jpg)
+}
